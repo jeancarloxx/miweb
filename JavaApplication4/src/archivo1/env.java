@@ -12,5 +12,6 @@ public class env {
     
    int nombre;
    int edad;
+   String correo;
     
 }
